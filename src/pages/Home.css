@@ -1,0 +1,88 @@
+.styled-table {
+    border-collapse: collapse;
+    margin: auto;
+    font-size: 0.8em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 800px;
+    box-shadow: 0 0 20px rgb(243, 7, 66);
+    color: rgb(255, 10, 222);
+    text-decoration: solid cyan;
+}
+.styled-table thead tr {
+    background-color: lightcoral;
+    color: crimson;
+    text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 20px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid crimson;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: navajowhite;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid lightsalmon;
+}
+
+.btn {
+    border: none;
+    color: whitesmoke;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.btn-edit {
+    background-color: lightgreen;
+    box-shadow: 0 0 20px rgb(23, 247, 3);
+}
+
+.btn-delete {
+    background-color: rgb(185, 70, 93);
+    box-shadow: 0 0 20px rgb(23, 247, 3);
+
+}
+
+.btn-view {
+    background-color: rgba(52, 168, 214, 0.39);
+    color: black;
+    box-shadow: 0 0 20px rgb(23, 247, 3);
+}
+
+.dropdown {
+    width: 20%;
+    margin: 5px;
+    color: rgb(252, 2, 64);
+    text-decoration: solid lightblue;
+}
+
+.btn-reset {
+    background-color: rgb(243, 7, 66);
+    color: black;
+    box-shadow: 0 0 20px rgb(243, 4, 171);
+
+}
+
+.btn-active {
+    background-color: darkorange;
+    color: black;
+    box-shadow: 0 0 20px rgb(23, 247, 3);
+}
+
+.btn-inactive {
+    background-color: darkolivegreen;
+    color: black;
+    box-shadow: 0 0 20px rgb(222, 6, 241);
+}
