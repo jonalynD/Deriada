@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Deriada/static/css/main.efc40ee0.css",
+    "main.js": "/Deriada/static/js/main.7c3f27bb.js",
+    "static/js/787.866a48ca.chunk.js": "/Deriada/static/js/787.866a48ca.chunk.js",
+    "static/media/cv.gif": "/Deriada/static/media/cv.c542bec310c04accb170.gif",
+    "index.html": "/Deriada/index.html",
+    "main.efc40ee0.css.map": "/Deriada/static/css/main.efc40ee0.css.map",
+    "main.7c3f27bb.js.map": "/Deriada/static/js/main.7c3f27bb.js.map",
+    "787.866a48ca.chunk.js.map": "/Deriada/static/js/787.866a48ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efc40ee0.css",
+    "static/js/main.7c3f27bb.js"
+  ]
+}
